@@ -4,7 +4,7 @@ Console.Clear();
 
 Console.WriteLine("Введите координаты X первой точки: ");
 int x1 = int.Parse(Console.ReadLine()!);
-Console.WriteLine("Введите координаты Y первойConsole.ReadLine(x1); точки: ");
+Console.WriteLine("Введите координаты Y первой точки: ");
 int y1 = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите координаты X второй точки: ");
 int x2 = int.Parse(Console.ReadLine()!);
